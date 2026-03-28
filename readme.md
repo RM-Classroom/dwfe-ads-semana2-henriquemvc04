@@ -1,11 +1,15 @@
-Atividade Git
+# Atividade Git
 
-Informações
+## 👤 Informações
 Nome: Henrique Shevchenko  
 Matrícula: 915990  
 
-Inspeção de rede
-[Network](images/network.png)
+---
 
-Página HTML
-[Site](images/site.png)
+## 🌐 Inspeção de rede
+![Network](images/network.png)
+
+---
+
+## 💻 Página HTML
+![Site](images/site.png)
